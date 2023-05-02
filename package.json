@@ -1,0 +1,21 @@
+{
+  "name": "forkify",
+  "version": "1.0.0",
+  "description": "a recipe search engine",
+  "default": "index.html",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "author": "harun bekri",
+  "license": "ISC",
+  "dependencies": {
+    "core-js": "^3.30.1",
+    "fractional": "^1.0.0",
+    "regenerator-runtime": "^0.13.11"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5",
+    "sass": "^1.62.1"
+  }
+}
