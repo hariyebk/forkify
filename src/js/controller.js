@@ -143,6 +143,7 @@ const init = function(){
   addrecipeview._addHandlerupload(controluploadrecipe)
   searchView.addHnadlerSerch(controlSearchRecipes)
   paginationView._addHandlerpagenation(controllpagination)
+  console.log('harun is mastering git')
 }
 init()
 
