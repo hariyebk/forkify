@@ -1,7 +1,7 @@
 
 # Forkify 
 
-Forkify is a project created as part of an Advanced JavaScript course on [Udemy Course](https://www.udemy.com/course/the-complete-javascript-course/) by instructor Jonas Schmedtmann. It is a recipe app built using the Model-View-Controller (MVC) architecture in JavaScript. It allows users to search for and bookmark recipes from a database of over 1 million recipes.
+Forkify is a project created as part of an Advanced JavaScript course on [Udemy](https://www.udemy.com/course/the-complete-javascript-course/) by instructor Jonas Schmedtmann. It is a recipe app built using the Model-View-Controller (MVC) architecture in JavaScript. It allows users to search for and bookmark recipes from a database of over 1 million recipes.
 
 <h1 align="center">
     <img src="demo.png"/>
